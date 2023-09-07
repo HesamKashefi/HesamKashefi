@@ -7,11 +7,15 @@
 
 - 📄 Know about my experiences [hesamkashefi.com](https://hesamkashefi.com)
 
+<h3 align="left">My YouTube Channel (Programming Tutorials):</h3>
+<p align="left">
+<a href="https://www.youtube.com/c/fullstackamigo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fullstackamigo" height="45" width="60" /></a>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hesam_kashefi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hesam_kashefi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/heasmkashefi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="heasmkashefi" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/fullstackamigo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fullstackamigo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
